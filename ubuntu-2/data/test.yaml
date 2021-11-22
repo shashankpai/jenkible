@@ -1,0 +1,4 @@
+- hosts: remote-host
+  tasks:
+
+    - shell: echo hello World > /tmp/ansible-file
